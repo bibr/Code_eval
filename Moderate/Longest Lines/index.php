@@ -20,4 +20,4 @@ for ($i = 0; $i < $totalWords; $i++) {
 
 function lensort($a, $b) {
     return strlen($b) - strlen($a);
-}
+} 
